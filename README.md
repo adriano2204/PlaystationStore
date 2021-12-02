@@ -1,2 +1,2 @@
 # PlaystationStore
-Playstation store - HTL, CSS e JavaScript
+Playstation store - HTML, CSS e JavaScript
